@@ -1,5 +1,10 @@
 function isPalindrome(word) {
-  // Write your algorithm here
+  // Write your algorithm hereconsole.log(isPalindrome("madam")); // true
+console.log(isPalindrome("robot")); // false
+console.log(isPalindrome("level")); // true
+console.log(isPalindrome("hello")); // false
+console.log(isPalindrome("madam")); //true
+
 }
 
 /* 
